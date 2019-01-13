@@ -25,7 +25,6 @@ php artisan migrate
 ```
 php artisan db:seed
 ```
-
 Finally, generate the application key 
 ```
 php artisan key:generate
