@@ -2,7 +2,7 @@
 
 
 @section('content')
-    <h1>Ajax Crud using Yajra Datatable ServerSide</h1>
+    <h1>Laravel - Datatables Serverside</h1>
     <button type="button" class="btn btn-primary" id="btnAdd">Add New</button>
     <br>
     <br>
@@ -11,7 +11,7 @@
             <tr>
                 <th>ID</th>
                 <th>Name</th>
-                <th>Contact</th>
+                <th>Phone</th>
                 <th>Address</th>
                 <th>created_at</th>
                 <th>updated_at</th>
