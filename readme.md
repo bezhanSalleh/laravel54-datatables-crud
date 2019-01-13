@@ -29,3 +29,8 @@ Finally, generate the application key
 php artisan key:generate
 ```
 
+### License
+
+Please use and re-use however you want.
+
+---
